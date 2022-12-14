@@ -1,0 +1,42 @@
+[
+  {
+   "categoryId": "1",
+   "categoryName": "Programming",
+   "image": "https://drive.google.com/file/d/1-pO1FI0qcrSiBzZAjw-rrlSDEBJCg0RH/view"
+  },
+  {
+   "categoryId": "2",
+   "categoryName": "Marketing",
+   "image": "https://drive.google.com/file/d/1fLL8_M_PItJV474TV5CyiOS2K7Vwb4ip/view"
+  },
+  {
+   "categoryId": "3",
+   "categoryName": "Programming",
+   "image": "https://drive.google.com/file/d/1-pO1FI0qcrSiBzZAjw-rrlSDEBJCg0RH/view"
+  },
+  {
+   "categoryId": "4",
+   "categoryName": "Programming",
+   "image": "https://drive.google.com/file/d/1fLL8_M_PItJV474TV5CyiOS2K7Vwb4ip/view"
+  },
+  {
+   "categoryId": "5",
+   "categoryName": "Programming",
+   "image": "https://drive.google.com/file/d/1-pO1FI0qcrSiBzZAjw-rrlSDEBJCg0RH/view"
+  },
+  {
+   "categoryId": "6",
+   "categoryName": "Programming",
+   "image": "https://drive.google.com/file/d/1fLL8_M_PItJV474TV5CyiOS2K7Vwb4ip/view"
+  },
+  {
+   "categoryId": "7",
+   "categoryName": "Programming",
+   "image": "https://drive.google.com/file/d/1-pO1FI0qcrSiBzZAjw-rrlSDEBJCg0RH/view"
+  },
+  {
+   "categoryId": "8",
+   "categoryName": "Programming",
+   "image": "https://drive.google.com/file/d/1fLL8_M_PItJV474TV5CyiOS2K7Vwb4ip/view"
+  }
+   ]
