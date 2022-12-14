@@ -3,48 +3,48 @@
    "categoryId": "1",
    "categoryName": "Programming",
     "totalCourses": "20",
-   "image": "https://drive.google.com/file/d/1-pO1FI0qcrSiBzZAjw-rrlSDEBJCg0RH/view"
+   "image": "https://www.javatpoint.com/images/logo/javahome.png"
   },
   {
    "categoryId": "2",
    "categoryName": "Marketing",
      "totalCourses": "20",
-   "image": "https://drive.google.com/file/d/1fLL8_M_PItJV474TV5CyiOS2K7Vwb4ip/view"
+   "image": "https://www.javatpoint.com/images/logo/androidhome.png"
   },
   {
    "categoryId": "3",
    "categoryName": "Programming",
      "totalCourses": "20",
-   "image": "https://drive.google.com/file/d/1-pO1FI0qcrSiBzZAjw-rrlSDEBJCg0RH/view"
+   "image": "https://www.javatpoint.com/images/logo/pythonhome.png"
   },
   {
    "categoryId": "4",
    "categoryName": "Programming",
      "totalCourses": "20",
-   "image": "https://drive.google.com/file/d/1fLL8_M_PItJV474TV5CyiOS2K7Vwb4ip/view"
+   "image": "https://www.javatpoint.com/cpp/images/cpp-home.png"
   },
   {
    "categoryId": "5",
    "categoryName": "Programming",
      "totalCourses": "20",
-   "image": "https://drive.google.com/file/d/1-pO1FI0qcrSiBzZAjw-rrlSDEBJCg0RH/view"
+   "image": "https://www.javatpoint.com/images/logo/androidhome.png"
   },
   {
    "categoryId": "6",
    "categoryName": "Programming",
      "totalCourses": "20",
-   "image": "https://drive.google.com/file/d/1fLL8_M_PItJV474TV5CyiOS2K7Vwb4ip/view"
+   "image": "https://www.javatpoint.com/cpp/images/cpp-home.png"
   },
   {
    "categoryId": "7",
    "categoryName": "Programming",
      "totalCourses": "20",
-   "image": "https://drive.google.com/file/d/1-pO1FI0qcrSiBzZAjw-rrlSDEBJCg0RH/view"
+   "image": "https://www.javatpoint.com/images/logo/javahome.png"
   },
   {
    "categoryId": "8",
    "categoryName": "Programming",
      "totalCourses": "20",
-   "image": "https://drive.google.com/file/d/1fLL8_M_PItJV474TV5CyiOS2K7Vwb4ip/view"
+   "image": "https://www.javatpoint.com/images/logo/javahome.png"
   }
    ]
